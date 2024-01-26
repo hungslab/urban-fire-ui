@@ -1,0 +1,48 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "admin",
+            "money": 123,
+            "address": "广东省东莞市长安镇",
+            "state": "1",
+            "date": "2023-1-5",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png",
+            "role":"2",
+            "area":"生活",
+            "prise":"暂无"
+        },
+        {
+            "id": 2,
+            "name": "li",
+            "money": 456,
+            "address": "广东省广州市白云区",
+            "state": "1",
+            "date": "2023-1-5",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png",
+            "role":"1"
+        },
+        {
+            "id": 3,
+            "name": "HZ",
+            "money": 789,
+            "address": "湖南省长沙市",
+            "state": "1",
+            "date": "2023-1-5",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png",
+            "role":"1"
+        },
+        {
+            "id": 4,
+            "name": "ZZ",
+            "money": 1011,
+            "address": "福建省厦门市鼓浪屿",
+            "state": "1",
+            "date": "2023-1-5",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png",
+            "role":"1",
+            "area":"计算机",
+            "prise":"蓝桥杯一等奖"
+        }
+    ],
+    "pageTotal": 4
+}
